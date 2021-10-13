@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T12:00:39.265Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="tMNnXSnoK2OxlumlqEoo" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T12:45:53.304Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="DGUaZSZRUGvOekzS5jel" version="15.4.3" type="github">
   <diagram id="iHmh4d0VoJrlqgLpmTnq" name="Page-1">
-    <mxGraphModel dx="2105" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,9 +173,9 @@
         <mxCell id="16BeFOmv6BQs0KwUmwl1-57" value="Contem" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="743.5" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="16BeFOmv6BQs0KwUmwl1-59" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yQcg1lLotLV1DbdRrt6Y-1" target="16BeFOmv6BQs0KwUmwl1-157" edge="1">
+        <mxCell id="16BeFOmv6BQs0KwUmwl1-59" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yQcg1lLotLV1DbdRrt6Y-5" target="16BeFOmv6BQs0KwUmwl1-157" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1975" y="863.5" as="sourcePoint" />
+            <mxPoint x="1960" y="868.5" as="sourcePoint" />
             <mxPoint x="1975" y="813.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -242,8 +242,8 @@
         <mxCell id="16BeFOmv6BQs0KwUmwl1-166" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="16BeFOmv6BQs0KwUmwl1-80" target="16BeFOmv6BQs0KwUmwl1-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="903" y="1030" />
-              <mxPoint x="905" y="1030" />
+              <mxPoint x="905" y="1100" />
+              <mxPoint x="905" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -343,7 +343,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="16BeFOmv6BQs0KwUmwl1-105" value="Atendimento de Saúde" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="16BeFOmv6BQs0KwUmwl1-105" value="Atendimento Médico" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="16BeFOmv6BQs0KwUmwl1-106" value="Realiza" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -575,9 +575,6 @@
         <mxCell id="16BeFOmv6BQs0KwUmwl1-168" value="Frequência da procura" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="283" y="368.5" width="137" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yQcg1lLotLV1DbdRrt6Y-1" value="Espécie" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="868.5" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="yQcg1lLotLV1DbdRrt6Y-2" value="Estado" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="135" width="100" height="40" as="geometry" />
         </mxCell>
@@ -586,6 +583,9 @@
             <mxPoint x="155" y="494.5" as="sourcePoint" />
             <mxPoint x="205" y="444.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yQcg1lLotLV1DbdRrt6Y-5" value="Espécie" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="868.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
